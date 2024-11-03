@@ -48,7 +48,13 @@ This guide provides step-by-step instructions to enable Azure Arc on Windows Ser
 ## Activating Monitoring
 
 Once your server is onboarded to Azure Arc, you can enable monitoring through the Azure portal:
-   - Navigate to **Azure Arc** > **Servers** in the Azure portal.
+   - Navigate to **Azure Arc** > **Machines** in the Azure portal.
+
+
+     ![image](https://github.com/user-attachments/assets/22338299-b949-4339-ba46-c4b4312885e4)
+
+     
+
    - Select your server, go to **Insights** or click on **Monitoring Insights**
      
      ![image](https://github.com/user-attachments/assets/b608ccd0-179b-4ad7-b2aa-e36b6cd077cf)
